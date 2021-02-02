@@ -1,0 +1,18 @@
+
+input{
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+
+.foo-bar
+{
+	font-size: 14px;
+	text-decoration: none;
+    color: #222;
+    height: 500;
+    background-color: #F8F9FA
+}
